@@ -6,4 +6,4 @@
 -  Babel - https://babeljs.io/docs/en/config-files
 
 ###### To start serevr on backend
-* run this in terminal -> `npx babel-node src/server.js`
+* run this in terminal -> `npm run dev`
