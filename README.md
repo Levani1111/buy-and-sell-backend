@@ -1,7 +1,7 @@
 # buy-and-sell-backend
 
 ### TECH
--  HAPI - [https://hapi.dev/]
+-  [HAPI] - (https://hapi.dev/)
 -  Node js - [https://nodejs.org/en/]
 -  Babel - [https://babeljs.io/docs/en/config-files]
 -  SQL "A relational SQL database" - [https://dev.mysql.com/downloads/mysql/]
