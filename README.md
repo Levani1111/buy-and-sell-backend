@@ -2,7 +2,9 @@
 
 #### TECH WITH LINKS TO GET THEM IN YOUR MACHINE 
 -  [x] [HAPI](https://hapi.dev/)
+-  [x] [Node js](https://nodejs.org/en/)
 -  [x] [Babel](https://babeljs.io/docs/en/config-files)
+-  [x] [Npm](https://www.npmjs.com/)
 -  [x] [SQL "A relational SQL database"](https://dev.mysql.com/downloads/mysql/)
 -  [x] [MySQL workbench](https://dev.mysql.com/downloads/workbench/)
 
