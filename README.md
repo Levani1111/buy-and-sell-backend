@@ -31,7 +31,7 @@
 
 
 ###### To start serevr on backend
-* run this in terminal :point_right: `npm run dev`
+* run this to the terminal :point_right: `npm run dev`
 <hr/>
 
 ##### Created by Levani Papashvili @2021
