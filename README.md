@@ -7,7 +7,7 @@
 -  [x] [Npm](https://www.npmjs.com/)
 -  [x] [SQL "A relational SQL database"](https://dev.mysql.com/downloads/mysql/)
 -  [x] [MySQL workbench](https://dev.mysql.com/downloads/workbench/)
--  [ ] [javascript](https://www.javascript.com/)  <strong>NO NEED TO INSTALL IN YOUR MACHINE :x:</strong>
+-  [ ] [javascript](https://www.javascript.com/)  <strong style="color: read;">No need to install in your machine :x:</strong>
 
 
 #### Node.js and NPM are required
