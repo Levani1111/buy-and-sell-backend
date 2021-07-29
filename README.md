@@ -31,4 +31,4 @@
 * run this in terminal :point_right: `npm run dev`
 <hr/>
 
-##### Created by Levani Papashvili @2020
+##### Created by Levani Papashvili @2021
