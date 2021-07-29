@@ -10,4 +10,4 @@
 - Please visit the Node.js website to download & install :point_right: [Node js](https://nodejs.org/en/)
 
 ###### To start serevr on backend
-* run this in terminal -> `npm run dev`
+* run this in terminal :point_right: `npm run dev`
