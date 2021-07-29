@@ -7,11 +7,11 @@
 -  [x] [Npm](https://www.npmjs.com/)
 -  [x] [SQL "A relational SQL database"](https://dev.mysql.com/downloads/mysql/)
 -  [x] [MySQL workbench](https://dev.mysql.com/downloads/workbench/)
-<hr/> 
+
 
 #### Node.js and NPM are required
 - Please visit the Node.js website to download & install :point_right: [Node js](https://nodejs.org/en/)
-<hr/>
+
 
 #### Development Dependencies
    * babel/runtime: 7.14.8,
@@ -25,7 +25,10 @@
    ```
    npm install
    ```
-<hr/>
+
 
 ###### To start serevr on backend
 * run this in terminal :point_right: `npm run dev`
+<hr/>
+
+##### Created by Levani Papashvili @2020
