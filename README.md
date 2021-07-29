@@ -7,7 +7,7 @@
 -  [x] [MySQL workbench](https://dev.mysql.com/downloads/workbench/)
 
 #### Node.js and NPM are required
-* Please visit the Node.js website to download & install: [x] [Node js](https://nodejs.org/en/)
+* Please visit the Node.js website to download & install: - [x] [Node js](https://nodejs.org/en/)
 
 ###### To start serevr on backend
 * run this in terminal -> `npm run dev`
