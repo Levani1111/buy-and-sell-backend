@@ -23,7 +23,8 @@
    * babel/plugin-transform-runtime: 7.14.5,
    * babel/preset-env: 7.14.8,
    * nodemon: 2.0.12,
-   * mysql: 2.18.1
+   * mysql: 2.18.1,
+   * uuid: 8.3.2,
    ```
    npm install
    ```
