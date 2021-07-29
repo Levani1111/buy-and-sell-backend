@@ -23,6 +23,6 @@
    ```
    npm install
    ```
-:----:
+<hr>
 ###### To start serevr on backend
 * run this in terminal :point_right: `npm run dev`
