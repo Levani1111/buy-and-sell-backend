@@ -5,10 +5,9 @@
 -  [x] [Babel](https://babeljs.io/docs/en/config-files)
 -  [x] [SQL "A relational SQL database"](https://dev.mysql.com/downloads/mysql/)
 -  [x] [MySQL workbench](https://dev.mysql.com/downloads/workbench/)
-```
+
 #### Node.js and NPM are required
 - Please visit the Node.js website to download & install :point_right: [Node js](https://nodejs.org/en/)
-```
 
 #### Development Dependencies
    * babel/runtime: 7.14.8,
